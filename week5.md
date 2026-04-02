@@ -5,7 +5,7 @@ GitHub là công cụ giúp quản lý mã nguồn và làm việc nhóm hiệu 
 
 ## 2. Liên kết học tập
 - **Link Gemini (Thảo luận GitHub):** https://gemini.google.com/share/6bb67924827e
-- **Link Google Doc (Phím tắt):** https://docs.google.com/document/d/1sGglNV2R39hn5iFiNX-0DsYcUG-eGT3ssbGSQpSj96c/edit?usp=sharing
+- **Link Google Doc (Phím tắt):https://docs.google.com/document/d/1sGgINV2R39hn5iFiNX-0DsYcUG-eGT3ssbGSQpSj96c/edit?usp=sharing
 
 ## 3. Danh sách 10 phím tắt hữu ích
 ### Google Chrome:
